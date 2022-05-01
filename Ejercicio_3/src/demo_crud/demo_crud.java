@@ -17,6 +17,9 @@ public class demo_crud {
         a = 34;
         b = 27;
         suma = a + b;
+        
+        //Quinto commit: imprimir resultado de la operación
+        System.out.println(suma);
     }
 }
 
