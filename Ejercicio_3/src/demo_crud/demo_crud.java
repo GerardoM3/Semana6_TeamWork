@@ -12,6 +12,11 @@ public class demo_crud {
         
         //Tercer commit: creación de variables
         double a, b, suma;
+        
+        //Cuarto commit: asignar valor a las variables
+        a = 34;
+        b = 27;
+        suma = a + b;
     }
 }
 
