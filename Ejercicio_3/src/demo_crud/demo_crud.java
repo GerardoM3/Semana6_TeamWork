@@ -9,6 +9,9 @@ public class demo_crud {
     public static void GerardoMonroy(){
         //Segundo commit: imprimir texto "Hola mundo!"
         System.out.println("Hola Mundo!");
+        
+        //Tercer commit: creación de variables
+        double a, b, suma;
     }
 }
 
