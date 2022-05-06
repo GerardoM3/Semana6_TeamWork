@@ -25,6 +25,7 @@ public class demo_crud {
     }
     public static void MorenaPeña(){
         System.out.println("Hola mundo");
+         double a, b, resta;
     }
     
 
