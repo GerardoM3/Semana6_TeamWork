@@ -24,8 +24,10 @@ public class demo_crud {
         System.out.println(suma);
     }
     public static void MorenaPeña(){
-        
+        System.out.println("Hola mundo");
     }
+    
+
     
 }
 
