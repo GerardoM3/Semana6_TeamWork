@@ -4,6 +4,8 @@ package demo_crud;
 public class demo_crud {
     public static void main(String[] args) {
         GerardoMonroy();
+        
+        MorenaPeña();
     }
     //Primer commit: Creación de un método cada miembro del equipo, y mandarlo a llamar desde el método main.
     public static void GerardoMonroy(){
@@ -21,5 +23,9 @@ public class demo_crud {
         //Quinto commit: imprimir resultado de la operación
         System.out.println(suma);
     }
+    public static void MorenaPeña(){
+        
+    }
+    
 }
 
