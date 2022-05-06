@@ -6,6 +6,8 @@ public class demo_crud {
         GerardoMonroy();
         
         MorenaPeña();
+        
+        MarjorieRamirez();
     }
     //Primer commit: Creación de un método cada miembro del equipo, y mandarlo a llamar desde el método main.
     public static void GerardoMonroy(){
@@ -31,6 +33,10 @@ public class demo_crud {
          resta= a-b;
          
          System.out.println(resta);
+    }
+    
+    public static void MarjorieRamirez(){
+        
     }
     
 
