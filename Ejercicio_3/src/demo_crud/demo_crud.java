@@ -41,6 +41,8 @@ public class demo_crud {
         a= 55;
         b= 4;
         dividir = a / b;
+        
+        System.out.println(dividir);
     }
     
 
