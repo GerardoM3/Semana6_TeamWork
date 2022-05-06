@@ -37,6 +37,7 @@ public class demo_crud {
     
     public static void MarjorieRamirez(){
         System.out.println("Hola Mundo!");
+        double a, b, dividir;
     }
     
 
