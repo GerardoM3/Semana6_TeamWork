@@ -29,6 +29,8 @@ public class demo_crud {
          a= 8;
          b= 5;
          resta= a-b;
+         
+         System.out.println(resta);
     }
     
 
